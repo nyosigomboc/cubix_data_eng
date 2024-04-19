@@ -162,3 +162,6 @@ cython_debug/
 # just in case when I add some API keys into the code
 secret_key.json
 secret_key.py
+
+# ignore checkpoints
+.ipynb_checkpoints
